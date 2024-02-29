@@ -1,4 +1,4 @@
-package com.workshoopmongo.config;
+package com.workshopmongo.config;
 
 import java.util.Arrays;
 
@@ -6,8 +6,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Configuration;
 
-import com.workshoopmongo.domain.User;
-import com.workshoopmongo.repository.UserRepository;
+import com.workshopmongo.domain.User;
+import com.workshopmongo.repository.UserRepository;
 
 @Configuration
 public class instatiation implements CommandLineRunner{

@@ -1,10 +1,10 @@
-package com.workshoopmongo.dto;
+package com.workshopmongo.dto;
 
 import java.io.Serializable;
 
 import org.springframework.data.annotation.Id;
 
-import com.workshoopmongo.domain.User;
+import com.workshopmongo.domain.User;
 
 public class UserDTO implements Serializable{
 
